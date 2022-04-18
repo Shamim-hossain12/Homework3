@@ -1,3 +1,2 @@
-# Homework3
-Homework
 # Homework
+My name is shami
